@@ -1,0 +1,50 @@
+.main {
+
+position: absolute;
+width: 1920px;
+height: 1280px;
+left: 0px;
+top: 1px;
+z-index: 0;
+}
+
+
+.text {
+z-index: 1;
+position: absolute;
+width: 66px;
+height: 23px;
+left: 547.97px;
+top: 63.61px;
+color: white;
+
+font-family: 'Neue Machina';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 23px;
+
+}
+
+
+.yelo {
+z-index: 1;
+width: 500px;
+left: -200px;
+
+transform: rotate(30.17deg);
+
+}
+.logo {
+z-index: 1;
+position: absolute;
+left: 22.03%;
+right: 74.77%;
+top: 2.31%;
+bottom: 86.66%;
+
+background: #EBEBEB;
+
+
+}
+
